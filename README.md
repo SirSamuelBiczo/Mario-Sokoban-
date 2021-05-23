@@ -34,6 +34,6 @@ https://gofile.io/d/30zzd1
 ### Linux 
 
 ```ssh
-git clone <url>
+git clone https://github.com/SirSamuelBiczo/Mario-Sokoban-.git
 gcc *.c -o "Mario Sokoban" -I include -L lib -lSDL2main -lSDL2_image -lSDL2
 ```
