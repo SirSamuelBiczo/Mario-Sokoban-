@@ -1,0 +1,17 @@
+//
+// Created by Megaport on 16/05/2021.
+//
+
+#ifndef MARIOSOKOBAN_CONSTANTS_H
+#define MARIOSOKOBAN_CONSTANTS_H
+
+
+#define WINDOW_TITLE    "Mario Sokoban"
+#define WINDOW_WIDTH    408
+#define WINDOW_HEIGHT   408
+#define BLOCKSIZE       34
+#define NUMBER_OF_TILES_HORIZONTAL          WINDOW_WIDTH/BLOCKSIZE
+#define NUMBER_OF_TILES_VERTICAL            WINDOW_HEIGHT/BLOCKSIZE
+
+
+#endif //MARIOSOKOBAN_CONSTANTS_H
