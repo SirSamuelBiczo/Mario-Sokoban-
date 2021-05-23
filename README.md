@@ -14,7 +14,7 @@ Mario, se situe dans un labyrinthe et le but du jeux est de poussez des caisse e
 - 1 à 5 pour selectionner la tuile 
 - S pour enregistrer 
 
-### Le jeux 
+### Le jeu
 ![Editeur de niveaux](http://image.noelshack.com/fichiers/2021/20/7/1621725590-screenshot-10.png)
 
 - Déplacement du mario par les flèches directionneles
