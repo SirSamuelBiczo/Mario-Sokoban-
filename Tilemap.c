@@ -49,8 +49,7 @@ void tilemap_delete(Tilemap* tilemap)
     {
         SDL_Log("-Ressource liberated %p as SDL_Texture*", tilemap->sprites[i]);
         SDL_DestroyTexture(tilemap->sprites[i]);
-    }
-    SDL_free(tilemap->sprites);
+    }    
     SDL_Log("-Ressource liberated %p as Tilemap*", tilemap);
     SDL_free(tilemap);
 }
