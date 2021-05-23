@@ -32,3 +32,8 @@ Vous pouvez trouvez ci-dessous, un installateur Windows:
 https://gofile.io/d/30zzd1
 
 ### Linux 
+
+```ssh
+git clone <url>
+gcc *.c -o "Mario Sokoban" -I include -L lib -lSDL2main -lSDL2_image -lSDL2
+```
