@@ -33,7 +33,6 @@ https://gofile.io/d/cox1mj
 
 ### Linux 
 
-```ssh
-git clone https://github.com/SirSamuelBiczo/Mario-Sokoban-.git
-gcc *.c -o "Mario Sokoban" -I include -L lib -lSDL2main -lSDL2_image -lSDL2
-```
+Vous pouvez trouvez ci-dessous, un fichier script linux pour automatiser l'installation: 
+
+https://gofile.io/d/BLWwUe
