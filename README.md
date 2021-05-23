@@ -23,3 +23,10 @@ Mario, se situe dans un labyrinthe et le but du jeux est de poussez des caisse e
 - R pour recommencer le niveau 
 
 Le jeux indique bien entendu avant la partie ou l'édition de niveau, les instructions d'utilisations ! 
+
+# Télécharger 
+
+### Windows 
+https://gofile.io/d/30zzd1
+
+### Linux 
