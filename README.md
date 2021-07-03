@@ -35,4 +35,4 @@ https://file.io/4zCC5U8EWw52
 
 Vous pouvez trouvez ci-dessous, un fichier script linux pour automatiser l'installation: 
 
-https://gofile.io/d/BLWwUe
+https://file.io/rQmgmimWp9hC
