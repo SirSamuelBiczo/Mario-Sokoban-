@@ -26,13 +26,5 @@ Le jeux indique bien entendu avant la partie ou l'édition de niveau, les instru
 
 # Télécharger 
 
-### Windows 
-Vous pouvez trouvez ci-dessous, un installateur Windows: 
-
-https://file.io/4zCC5U8EWw52
-
-### Linux 
-
-Vous pouvez trouvez ci-dessous, un fichier script linux pour automatiser l'installation: 
-
-https://file.io/rQmgmimWp9hC
+### Windows && GNU/Linux
+https://github.com/SirSamuelBiczo/Mario-Sokoban-/releases/tag/1.0
